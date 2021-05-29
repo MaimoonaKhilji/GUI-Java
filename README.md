@@ -13,7 +13,7 @@ Step-7 Creating Buttons ( Ok, Cancel, Setup, Help) and showing dialog message on
 
 </pre>
 
-![Outputt](Outputt.png)
+![outputt](outputt.png)
 
 **Step-1: JFrame**
 
@@ -79,6 +79,7 @@ through action listener, show message dialog.
 </pre>
 
 **1st-Button 'Ok'**
+
 ![7ia](7ia.png)
 
 **Output**
@@ -87,6 +88,7 @@ through action listener, show message dialog.
 
 
 **2nd-Button “Cancel”**
+
 ![7iia](7iia.png)
 
 **Output**
@@ -94,6 +96,7 @@ through action listener, show message dialog.
 ![7iib](7iib.png)
 
 **3rd-Button “Setup”**
+
 ![7iiia](7iiia.png)
 
 **Output**
@@ -102,6 +105,7 @@ through action listener, show message dialog.
 
 
 **4th-Button “help”**
+
 ![7iva](7iva.png)
 
 **Output**
